@@ -1,6 +1,6 @@
 
 /*
-  SDL_ESP32_WeatherRack2
+  SDL_ESP32_WeatherRack2 and Indoor T/H WeatherSense
   Example for ESP32
   September 2020
 
@@ -19,7 +19,7 @@ void setup()
   Serial.begin(115200);
   Serial.println("-----------");
   Serial.println("SwitchDoc Labs");
-  Serial.println("WeatherRack2 and Indoor T/H Test"); \
+  Serial.println("WeatherSense WeatherRack2 and Indoor T/H Test"); \
   Serial.println("-----------");
 
   weatherRack2 = SDL_ESP32_WeatherRack2(600, true, true );

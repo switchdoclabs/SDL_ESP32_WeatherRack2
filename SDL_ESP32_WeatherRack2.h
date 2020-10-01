@@ -16,6 +16,8 @@
 #define READ_WEATHERRACK2 true
 #define READ_SDL_INDOOR_TH true
 
+#define RX_IN_PIN 32
+
 class SDL_ESP32_WeatherRack2 {
   public:
     SDL_ESP32_WeatherRack2(long timeout = WEATHERRACK2_TIMEOUT, boolean read_weatherrack2 = READ_WEATHERRACK2, boolean read_indoorth = READ_SDL_INDOOR_TH  );

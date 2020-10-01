@@ -32,7 +32,7 @@ This forms a simple 1/4 wavelength dipole antenna.
 
 #WeatherRack2:<BR>
 
-{"messageid" : "17", "time" : "", "model" : "SwitchDoc Labs FT0300 AIO", "device" : "41", "modelnumber" : "12", "battery" : "OK", "avewindspeed" : "6", "gustwindspeed" : "10", "winddirection" : "322", "cumulativerain" : "1422", "temperature" : "18.83", "humidity" : "44", "light" : "14871", "uv" : "8", "CRC" : "96"}<BR>
+{"messageid" : "17", "time" : "", "model" : "SwitchDoc Labs FT020T AIO", "device" : "41", "modelnumber" : "12", "battery" : "OK", "avewindspeed" : "6", "gustwindspeed" : "10", "winddirection" : "322", "cumulativerain" : "1422", "temperature" : "18.83", "humidity" : "44", "light" : "14871", "uv" : "8", "CRC" : "96"}<BR>
 
 Fields
 
@@ -54,7 +54,7 @@ CRC: Calculated CRC value (It will match the CRC off of the message or you would
 
 #SwitchDoc Labs Indoor T/H Sensor
 
-{"messageid" : "13", "time" : "", "model" : "SwitchDoc Labs F007TH Thermo-Hygrometer", "device" : "54", "modelnumber" : "5", "channel" : "4", "battery" : "OK", "temperature" : "25.39", "humidity" : "38", "CRC" : "f"}
+{"messageid" : "13", "time" : "", "model" : "SwitchDoc Labs F016TH Thermo-Hygrometer", "device" : "54", "modelnumber" : "5", "channel" : "4", "battery" : "OK", "temperature" : "25.39", "humidity" : "38", "CRC" : "f"}
 
 Fields
 
