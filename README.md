@@ -1,9 +1,10 @@
 #SDL_ESP32_WeatherRack2 <BR>
 <BR>
 SwitchDoc Labs<BR>
-September 2020 <BR>
+October 2020 <BR>
 
 
+October 2020 Version 1.1 - Open Release<BR>
 September 2020 Version 1.0 - Initial Release<BR>
 
 This library and example program is designed to read 433Mhz signals from the SwitchDoc Labs WeatherRack2 Outdoor Weather Sensors.<BR>
